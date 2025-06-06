@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - https://repo.anaconda.com/pkgs/main
   - https://repo.anaconda.com/pkgs/r
+  - defaults
 dependencies:
   - _libgcc_mutex=0.1
   - _openmp_mutex=4.5
@@ -315,4 +316,3 @@ dependencies:
   - zlib=1.2.13
   - zstandard=0.23.0
   - zstd=1.5.6
-prefix: /home/somedudewhoexists/anaconda3/envs/ciao-4.17
